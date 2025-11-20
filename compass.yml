@@ -1,0 +1,16 @@
+name: uv
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/2ca036af-8506-4c07-a0ec-9a92ff254027
+description: An extremely fast Python package and project manager, written in Rust.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/DASTOVEK/uv
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
